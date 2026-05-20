@@ -1,0 +1,6 @@
+{
+  "name": "Fizzora Energy Drink",
+  "description": "Branding and web experience for Fizzora, a vibrant energy drink.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
