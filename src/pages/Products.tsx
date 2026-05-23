@@ -18,7 +18,7 @@ const flavors = [
     color: "bg-[#8B5CF6]",
     borderColor: "border-[#1C192E]",
     buttonColor: "bg-[#BEE36B]",
-    image: "/src/assets/images/fizzora_can_mockup_1779203306875.png",
+    image: "/images/fizzora_can_mockup_1779203306875.png",
     rotation: "-rotate-2"
   },
   { 
@@ -31,7 +31,7 @@ const flavors = [
     color: "bg-[#FF9100]",
     borderColor: "border-[#1C192E]",
     buttonColor: "bg-[#F4DF4F]",
-    image: "/src/assets/images/mango_can_1779203871104.png",
+    image: "/images/mango_can_1779203871104.png",
     rotation: "rotate-2"
   },
   { 
@@ -44,7 +44,7 @@ const flavors = [
     color: "bg-[#06B6D4]",
     borderColor: "border-[#1C192E]",
     buttonColor: "bg-[#BEE36B]",
-    image: "/src/assets/images/electric_can_1779203889119.png",
+    image: "/images/electric_can_1779203889119.png",
     rotation: "-rotate-1"
   }
 ];

@@ -109,7 +109,7 @@ export default function Checkout() {
                   <div className="flex justify-between items-center bg-white p-4 rounded-2xl border-2 border-[#1C192E]">
                      <div className="flex items-center gap-4">
                         <div className="w-12 h-12 bg-[#8B5CF6] rounded-xl border-2 border-[#1C192E] overflow-hidden">
-                           <img src="/src/assets/images/fizzora_can_mockup_1779203306875.png" alt="Berry Blast" className="w-full h-full object-cover transform scale-150" />
+                           <img src="/images/fizzora_can_mockup_1779203306875.png" alt="Berry Blast" className="w-full h-full object-cover transform scale-150" />
                         </div>
                         <div>
                            <p className="font-black text-[#1C192E] uppercase leading-none">Berry Blast</p>
@@ -122,7 +122,7 @@ export default function Checkout() {
                   <div className="flex justify-between items-center bg-white p-4 rounded-2xl border-2 border-[#1C192E]">
                      <div className="flex items-center gap-4">
                         <div className="w-12 h-12 bg-[#FF9100] rounded-xl border-2 border-[#1C192E] overflow-hidden">
-                           <img src="/src/assets/images/mango_can_1779203871104.png" alt="Mango Craze" className="w-full h-full object-cover transform scale-150" />
+                           <img src="/images/mango_can_1779203871104.png" alt="Mango Craze" className="w-full h-full object-cover transform scale-150" />
                         </div>
                         <div>
                            <p className="font-black text-[#1C192E] uppercase leading-none">Mango Craze</p>

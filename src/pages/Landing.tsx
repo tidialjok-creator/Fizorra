@@ -20,7 +20,7 @@ const heroFlavors = [
     desc: "Unleash the wild with Blackberry Beat. Dark, intense, and full of attitude.",
     color: "bg-[#8B5CF6]",
     badge: "YOUR DAILY DOSE OF BERRY BLISS!",
-    image: "/src/assets/images/fizzora_can_mockup_1779203306875.png"
+    image: "/images/fizzora_can_mockup_1779203306875.png"
   },
   {
     titleFirst: "Mango",
@@ -28,7 +28,7 @@ const heroFlavors = [
     desc: "A sunglasses-wearing punch of pure tangerine and juicy mango vibes.",
     color: "bg-[#FF9100]",
     badge: "TROPICAL MADNESS IN A CAN!",
-    image: "/src/assets/images/mango_can_1779203871104.png"
+    image: "/images/mango_can_1779203871104.png"
   },
   {
     titleFirst: "Electric",
@@ -36,7 +36,7 @@ const heroFlavors = [
     desc: "A lightning bolt to your system. Formulated to keep you entirely dialed in.",
     color: "bg-[#06B6D4]",
     badge: "100% PURE RAW VOLTAGE!",
-    image: "/src/assets/images/electric_can_1779203889119.png"
+    image: "/images/electric_can_1779203889119.png"
   }
 ];
 
